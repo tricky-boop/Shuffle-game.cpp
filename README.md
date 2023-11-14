@@ -22,7 +22,7 @@ int main()
 
     while (level <= 5 && lives > 0) {
         string userInput;
-        cout<<"Welcome to the guess the word game by JJ"<<endl;
+        cout<<"Welcome to the guess the word game by tricky-boop"<<endl;
         cout<<"The rules are simple you will given words to shuffle"<<endl;
         cout<<"Each words you fail you have to try again till you get it"<<endl;
         cout << "Level:" << level <<":Lives:" << lives <<endl;
